@@ -12,7 +12,7 @@
 * CRUD operations for cats.
 * REST API interface
 
-### Getting Started
+# Getting Started
 In the project directory, you can run:
 
 ### `docker-compose up`
