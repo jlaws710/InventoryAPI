@@ -9,8 +9,7 @@
 * Swagger UI
 
 ### Features
-* CRUD operations for carts.
-* Adding/removing products.
+* CRUD operations for cats.
 * REST API interface
 
 ### Getting Started
